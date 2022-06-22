@@ -2,6 +2,8 @@
 
 ##this repo was used to learn git from Amigoscode
 
+[Go to Real Cool Heading section](#real-cool-heading)
+
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
@@ -23,6 +25,8 @@ Some basic html tags:
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+#Real Cool Heading
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
