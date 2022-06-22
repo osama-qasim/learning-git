@@ -1,6 +1,6 @@
 # Git and Github Course
 
-##this repo was used to learn git from Amigoscode
+## this repo was used to learn git from Amigoscode
 
 [Go to Real Cool Heading section](#real-cool-heading)
 
